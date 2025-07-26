@@ -8,11 +8,11 @@
 
 </div>
 
-## 🌟 Core Features
-- 🧩 Lightweight scripting language
-- 🎮 Native Roblox integration
-- ⚡ Fast learning curve
-- 📦 Powerful table data structures
+## 🌟 Core Features.
+- 🧩 Lightweight scripting language.
+- 🎮 Native Roblox integration.
+- ⚡ Fast learning curve.
+- 📦 Powerful table data structures.
 
 ## 🚀 Quick Start Guide
 
